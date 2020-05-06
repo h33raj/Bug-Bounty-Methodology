@@ -1,4 +1,4 @@
-# Bug-Bounty-Methodology
+# Bug Bounty Methodology
 
 ## Recon
 
